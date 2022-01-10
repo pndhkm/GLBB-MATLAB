@@ -243,6 +243,8 @@ set(handles.edit2,'string',' ');
 set(handles.edit3,'string',' ');
 set(handles.edit4,'string',' ');
 set(handles.edit5,'string',' ');
+set(handles.edit6,'string',' ');
+set(handles.edit7,'string',' ');
 
 
 % --- Executes on button press in pushbutton4.
